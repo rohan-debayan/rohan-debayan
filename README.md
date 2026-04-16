@@ -23,7 +23,7 @@ I build **cyberinfrastructure for disaster resilience** - geospatial digital twi
 - PhD in Geography, Texas A&M University
 - MS in Civil Engineering (Water Resources), Texas A&M University
 - BTech in Civil Engineering, VIT University
-- Currently teaching GIS, programming, and statistics courses at ASU
+- Currently teaching GIS, programming, and geostatistics courses at ASU
 
 <table>
 <tr>
