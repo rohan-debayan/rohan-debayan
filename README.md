@@ -64,9 +64,19 @@ I build **cyberinfrastructure for disaster resilience** - geospatial digital twi
 
 ---
 
-## Research Areas
+### Research Areas
 
-`Geospatial Digital Twins` | `CyberGIS` | `GeoAI` | `Disaster Resilience` | `Remote Sensing` | `Social Sensing` | `Computational Urban Informatics` | `Big Data Analytics` | `Hydrology`
+<p align="center">
+  <img src="https://img.shields.io/badge/Geospatial%20Digital%20Twins-2C3E50?style=for-the-badge" alt="Digital Twins"/>
+  <img src="https://img.shields.io/badge/CyberGIS-2C3E50?style=for-the-badge" alt="CyberGIS"/>
+  <img src="https://img.shields.io/badge/GeoAI-2C3E50?style=for-the-badge" alt="GeoAI"/>
+  <img src="https://img.shields.io/badge/Disaster%20Resilience-2C3E50?style=for-the-badge" alt="Disaster Resilience"/>
+  <img src="https://img.shields.io/badge/Remote%20Sensing-2C3E50?style=for-the-badge" alt="Remote Sensing"/>
+  <img src="https://img.shields.io/badge/Social%20Sensing-2C3E50?style=for-the-badge" alt="Social Sensing"/>
+  <img src="https://img.shields.io/badge/Computational%20Urban%20Informatics-2C3E50?style=for-the-badge" alt="Urban Informatics"/>
+  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-2C3E50?style=for-the-badge" alt="Big Data"/>
+  <img src="https://img.shields.io/badge/Hydrology-2C3E50?style=for-the-badge" alt="Hydrology"/>
+</p>
 
 ---
 
