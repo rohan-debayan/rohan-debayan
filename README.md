@@ -20,7 +20,9 @@
 
 I build **cyberinfrastructure for disaster resilience** - geospatial digital twins, CyberGIS platforms, and GeoAI systems that help communities understand and prepare for hazards. My work sits at the intersection of geographic information science, high-performance computing, and urban informatics.
 
-- PhD in Geography from Texas A&M University
+- PhD in Geography, Texas A&M University
+- MS in Civil Engineering (Water Resources), Texas A&M University
+- BTech in Civil Engineering, VIT University
 - Currently teaching GIS, programming, and statistics courses at ASU
 
 <table>
