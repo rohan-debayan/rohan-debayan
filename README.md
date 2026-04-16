@@ -150,7 +150,7 @@ I build **cyberinfrastructure for disaster resilience** - geospatial digital twi
 <p align="center">
   <sub>Assistant Teaching Professor | Arizona State University | School of Geographical Sciences &amp; Urban Planning</sub><br/>
   <sub>
-    <a href="mailto:dmandal4@asu.edu">dmandal4@asu.edu</a> | 
+    <a href="mailto:dmandal9@asu.edu">dmandal9@asu.edu</a> | 
     <a href="https://search.asu.edu/profile/5323475">ASU Profile</a> | 
     <a href="https://rohan-debayan.github.io/Personal_Website_DM/">Personal Website</a>
   </sub>
