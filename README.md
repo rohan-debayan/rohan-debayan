@@ -46,14 +46,15 @@ I build **cyberinfrastructure for disaster resilience** - geospatial digital twi
 
 ### Courses at ASU
 
-| Code | Course | Note |
-|------|--------|------|
-| GIS 205 | Geographic Information Science I | |
-| GIS 211 | Geographic Information Science II | |
-| GIS 222 | Programming Principles for GIS I | Designed |
-| GIS 322 | Programming Principles for GIS II | Designed |
-| GIS 470 | Adv Statistics for Geography & Planning | |
-| GIS 498 | Pro-Seminar (Independent Research) | |
+<table>
+<tr><th>Code</th><th>Course</th><th></th></tr>
+<tr><td><code>GIS 205</code></td><td>Geographic Information Science I</td><td></td></tr>
+<tr><td><code>GIS 211</code></td><td>Geographic Information Science II</td><td></td></tr>
+<tr><td><code>GIS 222</code></td><td>Programming Principles for GIS I</td><td><img src="https://img.shields.io/badge/Designed-4CAF50?style=flat-square" alt="Designed"/></td></tr>
+<tr><td><code>GIS 322</code></td><td>Programming Principles for GIS II</td><td><img src="https://img.shields.io/badge/Designed-4CAF50?style=flat-square" alt="Designed"/></td></tr>
+<tr><td><code>GIS 470</code></td><td>Adv Statistics for Geography &amp; Planning</td><td></td></tr>
+<tr><td><code>GIS 498</code></td><td>Pro-Seminar (Independent Research)</td><td></td></tr>
+</table>
 
 </td>
 </tr>
@@ -61,7 +62,7 @@ I build **cyberinfrastructure for disaster resilience** - geospatial digital twi
 
 ---
 
-### Research Areas
+## Research Areas
 
 `Geospatial Digital Twins` | `CyberGIS` | `GeoAI` | `Disaster Resilience` | `Remote Sensing` | `Social Sensing` | `Computational Urban Informatics` | `Big Data Analytics` | `Hydrology`
 
