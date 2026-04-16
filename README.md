@@ -21,9 +21,43 @@
 I build **cyberinfrastructure for disaster resilience** - geospatial digital twins, CyberGIS platforms, and GeoAI systems that help communities understand and prepare for hazards. My work sits at the intersection of geographic information science, high-performance computing, and urban informatics.
 
 - PhD in Geography from Texas A&M University
-- 10 peer-reviewed journal articles | 2 book chapters | 106 citations | h-index 4
-- 36 conference presentations at AAG, AGU, ICC, and more
 - Currently teaching GIS, programming, and statistics courses at ASU
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Research Stats
+
+<img src="https://img.shields.io/badge/Journal%20Articles-10-blue?style=for-the-badge" alt="Articles"/>
+<img src="https://img.shields.io/badge/Book%20Chapters-2-blue?style=for-the-badge" alt="Chapters"/>
+<br/>
+<img src="https://img.shields.io/badge/Citations-106-green?style=for-the-badge" alt="Citations"/>
+<img src="https://img.shields.io/badge/h--index-4-green?style=for-the-badge" alt="h-index"/>
+<img src="https://img.shields.io/badge/i10--index-3-green?style=for-the-badge" alt="i10-index"/>
+<br/>
+<img src="https://img.shields.io/badge/Conference%20Talks-36-orange?style=for-the-badge" alt="Talks"/>
+<img src="https://img.shields.io/badge/Awards-7+-orange?style=for-the-badge" alt="Awards"/>
+
+<sub>Source: <a href="https://scholar.google.com/citations?user=cS1X_L4AAAAJ">Google Scholar</a></sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Courses at ASU
+
+| Code | Course | Note |
+|------|--------|------|
+| GIS 205 | Geographic Information Science I | |
+| GIS 211 | Geographic Information Science II | |
+| GIS 222 | Programming Principles for GIS I | Designed |
+| GIS 322 | Programming Principles for GIS II | Designed |
+| GIS 470 | Adv Statistics for Geography & Planning | |
+| GIS 498 | Pro-Seminar (Independent Research) | |
+
+</td>
+</tr>
+</table>
 
 ---
 
